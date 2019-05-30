@@ -12,7 +12,7 @@ Any comments are welcome, and we would also love to discuss potential research t
  
 Figure 1. Three-dimensional rendering of the six vascular stacks acquired with two-photon microscopy. 
 
-Citations
+## Citations
 Cheng, X., Berman, A.J., Polimeni, J.R., Buxton, R.B., Gagnon, L., Devor, A., Sakadžić, S. and Boas, D.A., 2019. Dependence of the MR signal on the magnetic susceptibility of blood studied with models based on real microvascular networks. Magnetic resonance in medicine.
 
 Gagnon, L., Sakadžić, S., Lesage, F., Pouliot, P., Dale, A.M., Devor, A., Buxton, R.B., Boas, D.A., 2016. Validation and optimization of hypercapnic-calibrated fMRI from oxygen-sensitive two-photon microscopy. Phil Trans R Soc B 371, 20150359.

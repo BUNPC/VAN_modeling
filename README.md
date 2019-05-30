@@ -13,17 +13,11 @@ Any comments are welcome, and we would also love to discuss potential research t
 Figure 1. Three-dimensional rendering of the six vascular stacks acquired with two-photon microscopy. 
 
 ## Citations
-Cheng, X., Berman, A.J., Polimeni, J.R., Buxton, R.B., Gagnon, L., Devor, A., Sakadžić, S. and Boas, D.A., 2019. Dependence of the MR signal on the magnetic susceptibility of blood studied with models based on real microvascular networks. Magnetic resonance in medicine.
+Cheng, X., Berman, A.J.L.J., Polimeni, J.R., Buxton, R.B., Gagnon, L., Devor, A., Sakadžić, S., and Boas, D.A., “Dependence of the MR signal on the magnetic susceptibility of blood studied with models based on real microvascular networks.,” Magnetic resonance in medicine (2019).
 
-Gagnon, L., Sakadžić, S., Lesage, F., Pouliot, P., Dale, A.M., Devor, A., Buxton, R.B., Boas, D.A., 2016. Validation and optimization of hypercapnic-calibrated fMRI from oxygen-sensitive two-photon microscopy. Phil Trans R Soc B 371, 20150359.
+Gagnon, L., Sakadžić, S., Lesage, F., Pouliot, P., Dale, A.M., Devor, A., Buxton, R.B., and Boas, D.A., “Validation and optimization of hypercapnic-calibrated fMRI from oxygen-sensitive two-photon microscopy.,” Philosophical transactions of the Royal Society of London. Series B, Biological sciences 371(1705), 20150359 (2016).
 
-Gagnon, L., Sakadžić, S., Lesage, F., Mandeville, E.T., Fang, Q., Yaseen, M.A., Boas, D.A., 2015a. Multimodal reconstruction of microvascular-flow distributions using combined two-photon microscopy and Doppler optical coherence tomography. Neurophotonics 2, 015008. 
-
-Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q., Yücel, M.A., Evans, K.C., Mandeville, E.T., Cohen-Adad, J., Polimeni, J.R., Yaseen, M.A., Lo, E.H., Greve, D.N., Buxton, R.B., Dale, A.M., Devor, A., Boas, D.A., 2015. Quantifying the microvascular origin of BOLD-fMRI from first principles with two-photon microscopy and an oxygen-sensitive nanoprobe. J. Neurosci. Off. J. Soc. Neurosci. 35, 3663–3675.
-
-Fang, Q., Sakadžić, S., Ruvinskaya, L., Devor, A., Dale, A.M., Boas, D.A., 2008. Oxygen advection and diffusion in a three dimensional vascular anatomical network. Opt. Express 16, 17530.
-
-
+Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q., Yücel, M.A., Evans, K.C., Mandeville, E.T., et al., “Quantifying the microvascular origin of BOLD-fMRI from first principles with two-photon microscopy and an oxygen-sensitive nanoprobe.,” The Journal of neuroscience : the official journal of the Society for Neuroscience 35(8), 3663–3675 (2015).
 
 
 

@@ -6,7 +6,7 @@ Here we provide two versions of instructions for users. The ‘Short Introductio
 
 Any comments are welcome, and we would also love to discuss potential research topics. Emails with any questions can be sent to Xiaojun Cheng xcheng17@bu.edu, David Boas dboas@bu.edu. Most importantly, have fun with VAN!
 
-![alt text](https://github.com/BUNPC/VAN_modeling/VANs.png)
+![Figure](VANs.png)
 
 
  

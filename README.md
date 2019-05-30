@@ -1,6 +1,6 @@
 # VAN_modeling
 
-The vascular anatomical network (VAN) model computes BOLD signals of mouse microvascular stacks obtained from in-vivo two photon microscopy measurements. With this bottom-up model, you can explore different physiological effects on the oxygen distribution, the blood flow distribution and BOLD signals.
+The vascular anatomical network (VAN) model computes BOLD signals of mouse microvascular stacks obtained from in-vivo two photon microscopy measurements. With this bottom-up model, you can explore different physiological effects on the *oxygen distribution*, the *blood flow distribution* and *BOLD fMRI signals*.
 
 Here we provide two versions of instructions for users. The ‘Short Introduction to VAN’ outlined the steps to call the functions, which should be sufficient for people who are only interested in obtaining the results. The ‘Not So Short Introduction to VAN’ includes a review of VAN modeling and more details, which is for researchers who need more information or want to integrate our data with other computational methods. 
 

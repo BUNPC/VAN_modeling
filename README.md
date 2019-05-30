@@ -1,6 +1,6 @@
 # VAN_modeling
 
-The vascular anatomical network (VAN) model uses mouse microvascular stacks obtained from in-vivo two photon microscopy measurements. With this bottom-up model, you can explore different physiological effects on the *oxygen distribution*, the *blood flow distribution* and *BOLD fMRI signals*.
+The vascular anatomical network (VAN) model computes *oxygen distribution*, *blood flow distribution* and *BOLD fMRI signals* within microvascular mouse stacks obtained in-vivo from two-photon microscopy.
 
 Here we provide instructions to run the code and descriptions of the model.
 

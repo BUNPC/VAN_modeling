@@ -21,7 +21,7 @@ Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q.,
 
 
 ## Instructions
-1. Download the code.zip and data.zip files.
+1. Download [VANmodel_0.0.zip] (https://drive.google.com/drive/u/1/folders/1ofeCST9HWSLrFGk8WpN9-0dzM-5mqY4R).
 2. 2.	Unzip all the files to a folder and copy the folder name. For example, in the below case, the folder name is ‘C:\Users\xcheng17\Documents\VAN\’
 ![Figure](Example.png)
 

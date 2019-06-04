@@ -21,6 +21,8 @@ Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q.,
 
 
 ## Instructions
-1. Download the code.zip and data.zip files, upzip them in the same folder.
+1. Download the code.zip and data.zip files.
+2. 2.	Unzip all the files to a folder and copy the folder name. For example, in the below case, the folder name is ‘C:\Users\xcheng17\Documents\VAN\’
+![Figure](Example.png)
 
 

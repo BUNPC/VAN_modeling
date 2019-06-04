@@ -21,4 +21,6 @@ Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q.,
 
 
 ## Instructions
+1. Download the code.zip and data.zip files, upzip them in the same folder.
+
 

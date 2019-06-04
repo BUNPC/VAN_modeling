@@ -2,7 +2,7 @@
 
 The vascular anatomical network (VAN) model computes *oxygen distribution*, *blood flow distribution* and *BOLD fMRI signals* within mouse  microvascular stacks obtained in-vivo from two-photon microscopy.
 
-Here we provide instructions to run the code and [descriptions of the model](https://github.com/BUNPC/VAN_modeling/tree/master/Model_Description).
+Here we provide instructions to run the code and [descriptions of the model](https://github.com/BUNPC/VAN_modeling/blob/master/Model_Description/Short%20Introduction%20to%20VAN.pdf).
 
 Any comments are welcome, and we would also love to discuss potential research topics. Emails with any questions can be sent to Xiaojun Cheng xcheng17@bu.edu, David Boas dboas@bu.edu. Most importantly, have fun with VAN!
 

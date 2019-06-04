@@ -22,7 +22,14 @@ Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q.,
 
 ## Instructions
 1. Download VANmodel_0.0.zip from [here](https://drive.google.com/drive/u/1/folders/1ofeCST9HWSLrFGk8WpN9-0dzM-5mqY4R).
-2. 2.	Unzip all the files to a folder and copy the folder name. For example, in the below case, the folder name is ‘C:\Users\xcheng17\Documents\VAN\’
+2. Unzip all the files to a folder and copy the folder name. For example, in the below case, the folder name is ‘C:\Users\xcheng17\Documents\VAN\’
 ![Figure](Example.png)
+3.	Open the Matlab script VANmodelrun.m. Make sure you change ‘myfolder1’ to the folder you just saved your files. 
+4.	If you are using Windows instead of Linux, make sure you change all the ‘/’ in all the scripts to ‘\’;
+5.	You can specify the parameters you want, such as the magnetic field strength B0.
+6.	Run the script. All the results, including intermediate results, are saved in the ‘data/mouse#/results/’ folder. Here the number ‘#’ is a number from 1 to 6 as you specified in the variable ‘mouseindex’.
+7.	Do something else. The computation takes about 12-24 hours, depending on your computer speed.
+8.	The gradient echo BOLD signal is the ‘BOLD_Gx’ variable in ‘MCBOLD_##.mat’.
+
 
 

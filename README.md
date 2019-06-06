@@ -21,7 +21,7 @@ Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q.,
 
 
 ## Instructions
-1. Download VANmodel_0.0.zip from [here](https://drive.google.com/drive/u/1/folders/1ofeCST9HWSLrFGk8WpN9-0dzM-5mqY4R).
+1. Download VANmodel_0.0.zip from [here](https://drive.google.com/a/bu.edu/file/d/1YS4ajA333wlLD4Mt9ZAB0NNJUT8FKlnz/view?usp=sharing).
 2. Unzip all the files to a folder and copy the folder name. For example, in the below case, the folder name is ‘C:\Users\xcheng17\Documents\VAN\’
 ![Figure](Example.png)
 3.	Open the Matlab script VANmodelrun.m. Make sure you change ‘myfolder1’ to the folder you just saved your files. 

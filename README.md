@@ -33,7 +33,11 @@ Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q.,
 
 
 Notes:
+
 nodePos: position of nodes in 3d space
+
 nodeEdges: the edges that connect nodes
+
 nodeDiam: the diameter of the nodes
+
 Hvox: the step size in x, y, z directions

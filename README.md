@@ -32,4 +32,8 @@ Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q.,
 8.	The gradient echo BOLD signal is the ‘BOLD_Gx’ variable in ‘MCBOLD_##.mat’.
 
 
-
+Notes:
+nodePos: position of nodes in 3d space
+nodeEdges: the edges that connect nodes
+nodeDiam: the diameter of the nodes
+Hvox: the step size in x, y, z directions
